@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🔭 Currently working on **[Task Management System (Spring Boot)](https://github.com/anupamchaubey/TaskManagement)**
 - 📝 Built **[DailyBook – Secure Blogging Platform](https://github.com/anupamchaubey/DailyBook)**  
   👉 **Live:** https://dailybook.vercel.app
@@ -26,49 +26,53 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/anupamchaubey" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/anupamchaubey" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-<a href="https://codeforces.com/profile/lostannu" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
-</a>
-<a href="https://www.codechef.com/users/lostannu" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/lostannu" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
-</a>
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/anupamchaubey" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 0 20px;" />
+  </a>
+  <a href="https://www.leetcode.com/anupamchaubey" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" style="margin: 0 20px;" />
+  </a>
+  <a href="https://codeforces.com/profile/lostannu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" style="margin: 0 20px;" />
+  </a>
+  <a href="https://www.codechef.com/users/lostannu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" style="margin: 0 20px;" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/lostannu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" style="margin: 0 20px;" />
+  </a>
+</div>
 
 ---
 
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+## 🛠 Languages & Tools
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" style="margin: 15px;" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" style="margin: 15px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" style="margin: 15px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" style="margin: 15px;" />
+</div>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamchaubey&layout=compact" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamchaubey&layout=compact" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anupamchaubey&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupamchaubey&show_icons=true" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamchaubey" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamchaubey" />
 </p>
