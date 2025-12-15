@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **[Task Management System (Spring Boot)](https://github.com/anupamchaubey/TaskManagement)**
-- 📝 Built **[DailyBook – Secure Blogging Platform](https://github.com/anupamchaubey/Daily-Book)**  
-  👉 **Live:** https://dailybook.vercel.app
+- 📝 Built **[DailyBook – Secure Blogging Platform](https://dailybooks.netlify.app)**  
+  👉 **Live:** https://dailybooks.netlify.app
 - 🌱 Learning **Spring Boot & Spring Security 6**, REST API design, backend architecture  
 - 🧠 Strengthening **SQL optimization & advanced DSA patterns**
 - 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, DSA & LeetCode**
