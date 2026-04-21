@@ -9,8 +9,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 📝 Built **[DailyBook – Secure Blogging Platform](https://github.com/anupamchaubey/Daily-Book)**  
-  👉 **Live:** https://dailybooks.netlify.app
+- 📝 Built **[TaskManagerAPI](https://github.com/anupamchaubey/TaskManagerAPI)**  
+  
 - 🌱 Learning **Spring Boot & Spring Security 6**, REST API design, backend architecture  
 - 🧠 Strengthening **SQL optimization & advanced DSA patterns**
 - 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, DSA & LeetCode**
