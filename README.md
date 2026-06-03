@@ -1,72 +1,36 @@
-<h1 align="center">Hi 👋, I'm Anupam Chaubey</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot | Problem Solver</h3>
+# Hi, I'm Anupam
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupamchaubey&label=Profile%20views&color=0e75b6&style=flat" alt="anupamchaubey" />
-</p>
+Backend Developer focused on Java and Spring Boot.
 
+## Tech Stack
 
----
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate/JPA
+- MySQL
+- REST APIs
+- JWT Authentication
+- Git/GitHub
 
-## 👨‍💻 About Me
-- 📝 Built **[TaskManagerAPI](https://github.com/anupamchaubey/TaskManagerAPI)**  
-  
-- 🌱 Learning **Spring Boot & Spring Security 6**, REST API design, backend architecture  
-- 🧠 Strengthening **SQL optimization & advanced DSA patterns**
-- 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, DSA & LeetCode**
-- 📫 Reach me at **icyanupam@gmail.com**
-- 📄 Resume:  
-  👉 https://drive.google.com/file/d/14k9dKfIbvWcxXh-p7EjoccTco_eLCe3k/view
+## Projects
 
----
+### CampusConnect
+University community platform with:
+- JWT Authentication
+- Role-Based Access Control
+- API Documentation
+- Validation
+- Global Exception Handling
 
-## 🌐 Connect With Me
+### Task Manager API
+REST API for task management and user authentication.
 
-<div align="center">
-  <a href="https://linkedin.com/in/anupamchaubey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 0 20px;" />
-  </a>
-  <a href="https://www.leetcode.com/anupamchaubey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" style="margin: 0 20px;" />
-  </a>
-  <a href="https://codeforces.com/profile/lostannu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" style="margin: 0 20px;" />
-  </a>
-  <a href="https://www.codechef.com/users/lostannu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" style="margin: 0 20px;" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/lostannu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" style="margin: 0 20px;" />
-  </a>
-</div>
+## Open Source
 
----
+Contributor to OpenAPI Generator.
 
-## 🛠 Languages & Tools
+## Coding Profiles
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" style="margin: 15px;" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" style="margin: 15px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" style="margin: 15px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" style="margin: 15px;" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamchaubey&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupamchaubey&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamchaubey" />
-</p>
+LeetCode: ...
+GeeksforGeeks: ...
