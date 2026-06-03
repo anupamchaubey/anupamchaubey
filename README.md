@@ -1,36 +1,135 @@
-# Hi, I'm Anupam
+# Hi, I'm Anupam 👋
 
-Backend Developer focused on Java and Spring Boot.
+### Java Backend Developer | Spring Boot | Spring Security | SQL | Open Source Contributor
+
+I'm a B.Tech student focused on backend development using Java and Spring Boot.
+
+I enjoy building RESTful applications, designing scalable backend systems, and contributing to open source projects. My primary interests include backend engineering, API development, database design, and software architecture.
+
+---
 
 ## Tech Stack
 
+### Languages
 - Java
+- SQL
+
+### Backend
 - Spring Boot
 - Spring Security
-- Hibernate/JPA
-- MySQL
+- Hibernate / JPA
 - REST APIs
 - JWT Authentication
-- Git/GitHub
 
-## Projects
+### Database
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Maven
+- Postman
+- Swagger / OpenAPI
+
+---
+
+## Featured Project
 
 ### CampusConnect
-University community platform with:
+
+A university networking platform built using Spring Boot.
+
+#### Features
 - JWT Authentication
-- Role-Based Access Control
-- API Documentation
-- Validation
+- Role-Based Access Control (RBAC)
+- User Registration & Login
+- Input Validation
 - Global Exception Handling
+- API Documentation using Swagger/OpenAPI
+- MySQL Integration
+
+#### Tech Stack
+Java • Spring Boot • Spring Security • JPA • MySQL • JWT
+
+---
 
 ### Task Manager API
-REST API for task management and user authentication.
 
-## Open Source
+RESTful backend application for task management.
 
-Contributor to OpenAPI Generator.
+#### Features
+- User Authentication
+- CRUD Operations
+- Validation
+- Exception Handling
+- Database Integration
+
+#### Tech Stack
+Java • Spring Boot • JPA • MySQL
+
+---
+
+## Open Source Contributions
+
+### OpenAPI Generator
+
+Contributed to OpenAPI Generator by:
+
+- Fixing enum naming behavior
+- Preserving SCREAMING_SNAKE_CASE values correctly
+- Adding test coverage
+- Improving code generation consistency
+
+---
+
+## Problem Solving
+
+- Solving Data Structures & Algorithms problems regularly
+- Active on LeetCode and GeeksforGeeks
+- Strong foundation in:
+  - Arrays
+  - Strings
+  - Linked Lists
+  - Stacks & Queues
+  - Trees
+  - Graphs
+  - Dynamic Programming
+  - SQL
+
+---
+
+## Currently Learning
+
+- Advanced Spring Security
+- System Design Fundamentals
+- Database Optimization
+- Backend Architecture Patterns
+
+---
 
 ## Coding Profiles
 
-LeetCode: ...
-GeeksforGeeks: ...
+- LeetCode: https://leetcode.com/u/anupamchaubey
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/lostannu
+- LinkedIn: https://www.linkedin.com/in/anupamchaubey/
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupamchaubey&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamchaubey&layout=compact)
+
+---
+
+## Contact
+
+📧 Email: icyanupam@gmail.com
+
+Always open to discussions about:
+- Java
+- Spring Boot
+- Backend Development
+- Open Source
+- Software Engineering
