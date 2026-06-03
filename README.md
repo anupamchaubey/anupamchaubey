@@ -109,9 +109,10 @@ Contributed to OpenAPI Generator by:
 
 ## Coding Profiles
 
-- LeetCode: https://leetcode.com/u/anupamchaubey
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/lostannu
+- LeetCode: https://leetcode.com/u/anupamchaubey/
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/lostannu/
 - LinkedIn: https://www.linkedin.com/in/anupamchaubey/
+- Portfolio: https://anupamchaubey.github.io/Portfolio/
 
 ---
 
