@@ -71,14 +71,13 @@ Java • Spring Boot • JPA • MySQL
 
 ## Open Source Contributions
 
-### OpenAPI Generator
+## Open Source Contributions
 
-Contributed to OpenAPI Generator by:
-
-- Fixing enum naming behavior
-- Preserving SCREAMING_SNAKE_CASE values correctly
-- Adding test coverage
-- Improving code generation consistency
+### [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) — 20k+ ⭐
+- Fixed enum naming behavior to preserve `SCREAMING_SNAKE_CASE` values correctly
+- Added test coverage for the fix
+- Improved code generation consistency across Java clients
+- 🔗 [View PR →](https://github.com/OpenAPITools/openapi-generator/pull/23842)
 
 ---
 
