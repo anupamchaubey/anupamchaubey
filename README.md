@@ -43,7 +43,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 ## 🚀 Featured Projects
 
 ### 🎓 [CampusConnect](https://github.com/anupamchaubey/Campus-Connect)
-> Full-stack university networking and resource-sharing platform
+> Backend university networking and resource-sharing platform
 
 **What it does:** Students upload notes, PYQs, assignments, and interview experiences. Admins moderate content. Advanced filtering + pagination for resource discovery.
 
