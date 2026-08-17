@@ -60,7 +60,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 
 ---
 
-### ✅ [TaskManagerAPI](https://github.com/anupamchaubey/TaskManagerAPI)
+### ✅ [Taskify](https://github.com/anupamchaubey/Taskify)
 > Secure REST API for personal task management with JWT authentication
 
 **What it does:** Users register, log in, and manage their personal tasks. Every task endpoint is protected — only the owner can access their data.
@@ -73,33 +73,6 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 
 `Java` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `Maven`
 
----
-
-### 📝 [Daily-Book](https://github.com/anupamchaubey/Daily-Book)
-> Blogging platform built with Java and Spring Boot
-
-`Java` `Spring Boot` `JPA` `MySQL`
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, SQL |
-| **Backend** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs |
-| **Auth** | JWT, BCrypt, RBAC |
-| **Database** | MySQL, H2 |
-| **Cloud/Storage** | Cloudinary, Render, Railway, Vercel |
-| **API Docs** | Swagger / OpenAPI |
-| **Tools** | Git, GitHub, Maven, Postman, IntelliJ IDEA |
-| **Currently Learning** | Docker, GitHub Actions, System Design |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
