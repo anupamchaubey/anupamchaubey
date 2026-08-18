@@ -54,7 +54,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 - Pagination, search & filter by branch, semester, subject, college
 - Global exception handling via `@ControllerAdvice`
 - Swagger/OpenAPI documentation
-- Deployed on Render (backend) + Vercel (frontend) + Railway (MySQL)
+- Deployed on Render (backend) +  Aiven (MySQL)
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `React` `Tailwind CSS` `Cloudinary` `Maven`
 
