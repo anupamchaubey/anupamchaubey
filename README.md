@@ -42,6 +42,26 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 
 ## 🚀 Featured Projects
 
+### 📖 [DailyBook](https://github.com/anupamchaubey/Daily-Book)
+> Full-stack social blogging platform inspired by Medium
+
+**Live Demo**: [https://dailybook-kappa.vercel.app](https://dailybook-kappa.vercel.app)
+
+**What it does:** Users can write stories, follow other writers, control post visibility (Public / Followers Only / Private), and receive notifications.
+
+**Key Features:**
+- JWT authentication with Spring Security
+- Post visibility control enforced on the backend
+- Follow request & approval system
+- Cover image upload + tags
+- Explore page with search and topic filters
+- Notifications system
+- Fully deployed (Frontend on Vercel + Backend)
+
+`Java 17` `Spring Boot` `Spring Security` `JWT` `MongoDB` `React` `Tailwind CSS` `Maven`
+
+---
+
 ### 🎓 [CampusConnect](https://github.com/anupamchaubey/Campus-Connect)
 > Backend university networking and resource-sharing platform
 
@@ -54,7 +74,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 - Pagination, search & filter by branch, semester, subject, college
 - Global exception handling via `@ControllerAdvice`
 - Swagger/OpenAPI documentation
-- Deployed on Render (backend) +  Aiven (MySQL)
+- Deployed on Render (backend) + Aiven (MySQL)
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `React` `Tailwind CSS` `Cloudinary` `Maven`
 
@@ -73,6 +93,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 
 `Java` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `Maven`
 
+---
 
 ## 📊 GitHub Stats
 
