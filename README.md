@@ -45,7 +45,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 ### 📖 [DailyBook](https://github.com/anupamchaubey/Daily-Book)
 > Full-stack social blogging platform inspired by Medium
 
-**Live Demo**: [https://daily-book-frontend-xi.vercel.app/)
+**Live Demo**: https://daily-book-frontend-xi.vercel.app/
 
 **What it does:** Users can write stories, follow other writers, control post visibility (Public / Followers Only / Private), and receive notifications.
 
@@ -53,10 +53,9 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 - JWT authentication with Spring Security
 - Post visibility control enforced on the backend
 - Follow request & approval system
-- Cover image upload + tags
 - Explore page with search and topic filters
 - Notifications system
-- Fully deployed (Frontend on Vercel + Backend)
+- Fully deployed (Frontend on Vercel + Backend on Render)
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `MongoDB` `React` `Tailwind CSS` `Maven`
 
