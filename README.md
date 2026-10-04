@@ -17,80 +17,91 @@
 
 ## 👋 About Me
 
-I'm a **B.Tech student** specializing in **Java backend development** using Spring Boot and Spring Security. I enjoy building secure, scalable RESTful systems and contributing to real-world open source projects.
+I'm a **B.Tech Computer Science student at Galgotias University** focused on **Java backend engineering**. I build secure, scalable RESTful systems with Spring Boot & Spring Security, solve DSA problems, and contribute to real-world open source.
 
-- 🔭 Currently building **CampusConnect** — a full-stack university networking platform
-- 🌱 Learning **Advanced Spring Security**, **System Design**, and **Docker/CI-CD**
-- 🛠️ Contributed a **merged fix** to [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) (20k+ ⭐)
-- 💬 Ask me about **Java, Spring Boot, JWT Auth, REST API design**
-- 📍 Based in India
+- 🔭 Currently building **ResQMeal** — surplus food rescue engine with concurrency control
+- 🌱 Learning **Advanced Spring Security**, **System Design**, **Docker** & **CI/CD**
+- 🛠️ Merged PR to [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) (**26k+ ⭐**)
+- 💬 Ask me about **Java, Spring Boot, JWT Auth, REST API design, concurrency**
+- 🎓 Galgotias University (B.Tech CSE, 2023–2027) · 📍 India
 
 ---
 
 ## 🏆 Open Source Contribution
 
-### [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) — 20k+ ⭐ · Merged PR
+### [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) — 26k+ ⭐ · Merged PR
 
 > One of the most widely used API code generation tools in the industry.
 
 - 🐛 Fixed critical enum naming bug — preserved `SCREAMING_SNAKE_CASE` values correctly in Java client generation
-- ✅ Added targeted test coverage to prevent regression
-- 📈 Improved code generation consistency across multiple language targets
-- 🔗 **[View Merged PR →](https://github.com/OpenAPITools/openapi-generator/pull/23842)**
+- ✅ Added targeted regression test coverage
+- 📈 Collaborated with maintainers through code review to get the change merged
+- 🔗 **[View Merged PR #23842 →](https://github.com/OpenAPITools/openapi-generator/pull/23842)**
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🍽️ [ResQMeal](https://github.com/anupamchaubey/ResQMeal)
+> Surplus food rescue engine connecting donors with shelters in real-time
+
+**What it does:** Donors (restaurants, caterers) post surplus food batches. NGOs/shelters claim them. Prevents double-booking under concurrent claims and auto-expires unsafe batches.
+
+**Backend highlights:**
+- **Optimistic locking (`@Version`)** to eliminate race conditions on food claims
+- Stateless JWT + **token blacklist** for instant logout/session revocation
+- **Lifecycle sweeper** (`@Scheduled`) marks expired batches every 60s
+- Role-based access (DONOR / NGO) with strict data ownership
+
+`Java 21` `Spring Boot 3` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `Maven` `Docker`
+
+---
+
+### 🎓 [CampusConnect](https://github.com/anupamchaubey/Campus-Connect)
+> Backend university networking & resource-sharing platform
+
+**What it does:** Students upload notes, PYQs, assignments, and interview experiences. Admins moderate content. Advanced filtering + pagination for discovery.
+
+**Backend highlights:**
+- JWT + BCrypt + Role-Based Access Control (STUDENT / ADMIN)
+- Cloudinary for file storage
+- 15+ REST endpoints · Pagination, search & multi-criteria filters
+- Global exception handling via `@ControllerAdvice` · Swagger/OpenAPI
+- Deployed on Render (backend) + Aiven (MySQL)
+
+`Java 17` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `Cloudinary` `Swagger` `Maven`
+
+---
 
 ### 📖 [DailyBook](https://github.com/anupamchaubey/Daily-Book)
 > Full-stack social blogging platform inspired by Medium
 
 **Live Demo**: https://daily-book-frontend-xi.vercel.app/
 
-**What it does:** Users can write stories, follow other writers, control post visibility (Public / Followers Only / Private), and receive notifications.
+**What it does:** Users write stories, follow writers, control post visibility (Public / Followers Only / Private), and receive notifications.
 
 **Key Features:**
 - JWT authentication with Spring Security
-- Post visibility control enforced on the backend
-- Follow request & approval system
+- Post visibility enforced at the **service layer** (no data leakage)
+- Follow request & approval workflow + notifications
 - Explore page with search and topic filters
-- Notifications system
 - Fully deployed (Frontend on Vercel + Backend on Render)
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `MongoDB` `React` `Tailwind CSS` `Maven`
 
 ---
 
-### 🎓 [CampusConnect](https://github.com/anupamchaubey/Campus-Connect)
-> Backend university networking and resource-sharing platform
-
-**What it does:** Students upload notes, PYQs, assignments, and interview experiences. Admins moderate content. Advanced filtering + pagination for resource discovery.
-
-**Backend highlights:**
-- JWT auth with BCrypt password hashing + Role-Based Access Control (STUDENT / ADMIN)
-- Cloudinary integration for file storage
-- 15+ REST endpoints across Auth, Resources, and Interview modules
-- Pagination, search & filter by branch, semester, subject, college
-- Global exception handling via `@ControllerAdvice`
-- Swagger/OpenAPI documentation
-- Deployed on Render (backend) + Aiven (MySQL)
-
-`Java 17` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `React` `Tailwind CSS` `Cloudinary` `Maven`
-
----
-
 ### ✅ [Taskify](https://github.com/anupamchaubey/Taskify)
 > Secure REST API for personal task management with JWT authentication
 
-**What it does:** Users register, log in, and manage their personal tasks. Every task endpoint is protected — only the owner can access their data.
+**What it does:** Users register, log in, and manage personal tasks. Every endpoint is protected — only the owner can access their data.
 
 **Backend highlights:**
-- Stateless JWT authentication with filter chain
-- Full CRUD for tasks with user-scoped data isolation
-- DTO abstraction to decouple API layer from entity layer
-- Bean Validation with meaningful error responses
+- Stateless JWT filter chain
+- Full CRUD with strict user-scoped data isolation
+- DTO abstraction + Bean Validation + layered architecture
 
-`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `Maven`
+`Java 21` `Spring Boot 3` `Spring Security` `JWT` `JPA` `MySQL` `Maven`
 
 ---
 
@@ -115,7 +126,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 
 Actively solving DSA problems on **LeetCode** and **GeeksforGeeks**.
 
-**Strong foundations in:** Arrays · Strings · Linked Lists · Stacks & Queues · Trees · Graphs · Dynamic Programming · SQL
+**~900+ problems solved** · Strong foundations in: Arrays · Strings · Linked Lists · Stacks & Queues · Trees · Graphs · Dynamic Programming · SQL · Backtracking
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-anupamchaubey-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/anupamchaubey/)
 [![GFG](https://img.shields.io/badge/GFG-lostannu-2F8D46?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/lostannu/)
@@ -124,7 +135,7 @@ Actively solving DSA problems on **LeetCode** and **GeeksforGeeks**.
 
 ## 📫 Let's Connect
 
-I'm always open to discussions about Java, backend engineering, system design, and open source.
+I'm always open to discussions about Java, backend engineering, system design, concurrency, and open source.
 
 📧 **icyanupam@gmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/anupamchaubey/)** · 🌐 **[Portfolio](https://anupamchaubey.github.io/Portfolio/)**
 
