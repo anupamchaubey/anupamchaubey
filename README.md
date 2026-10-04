@@ -45,7 +45,7 @@ I'm a **B.Tech student** specializing in **Java backend development** using Spri
 ### 📖 [DailyBook](https://github.com/anupamchaubey/Daily-Book)
 > Full-stack social blogging platform inspired by Medium
 
-**Live Demo**: [https://dailybook-kappa.vercel.app](https://dailybook-kappa.vercel.app)
+**Live Demo**: [https://daily-book-frontend-xi.vercel.app/)
 
 **What it does:** Users can write stories, follow other writers, control post visibility (Public / Followers Only / Private), and receive notifications.
 
